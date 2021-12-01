@@ -10,6 +10,6 @@ dependencies:
 
   - pip=20.1
   - pip:
-      # Define pip packages here.
-      # https://pypi.org/
-      - rpaframework==12.0.0 # https://rpaframework.org/releasenotes.html
+    # Define pip packages here. 
+    # https://pypi.org/
+    - rpaframework==12.0.3 # https://rpaframework.org/releasenotes.html
