@@ -1,6 +1,8 @@
 *** Settings ***
 Documentation       Template keyword resource.
-Variables    variables.py
+
+Variables           variables.py
+
 
 *** Keywords ***
 Example keyword
