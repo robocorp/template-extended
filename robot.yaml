@@ -22,7 +22,7 @@ PATH:
   - .
 PYTHONPATH:
   - keywords
+  - resources
   - libraries
-  - variables
 ignoreFiles:
   - .gitignore
