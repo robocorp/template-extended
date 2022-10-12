@@ -32,7 +32,7 @@ The directory structure given by the template:
 │   └── keywords.robot
 ├── libraries
 │   └── MyLibrary.py
-├── variables
+├── resources
 │   └── variables.py
 ├── conda.yaml
 ├── robot.yaml
@@ -44,7 +44,7 @@ where
 - `devdata`: A place for all data/material related to development, e.g., test data. Do not put any sensitive data here!
 - `keywords`: Robot Framework keyword files.
 - `libraries`: Python library code.
-- `variables`: Define your robot variables in a centralized place. Do not put any sensitive data here!
+- `resources`: Define your resources in a centralized place. For example the robot variables can be defined in here. Do not put any sensitive data here!
 - `conda.yaml`: Environment configuration file.
 - `robot.yaml`: Robot configuration file.
 - `tasks.robot`: Robot Framework task suite - high-level process definition.
