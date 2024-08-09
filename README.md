@@ -53,14 +53,14 @@ In addition to these, you can create your own directories (e.g. `bin`, `tmp`). A
 
 Logs and artifacts are stored in `output` by default - see `robot.yaml` for configuring this.
 
-Learn how to [handle variables and secrets](https://robocorp.com/docs/development-guide/variables-and-secrets/secret-management).
+Learn how to [handle variables and secrets](https://robocorp.com/docs-robot-framework/development-guide/variables-and-secrets/secret-management).
 
 ### Configuration
 
-Give the task name and startup commands in `robot.yaml` with some additional configuration. See [Docs](https://robocorp.com/docs/setup/robot-structure#robot-configuration-file-robot-yaml) for more.
+Give the task name and startup commands in `robot.yaml` with some additional configuration. See [Docs](https://robocorp.com/docs-robot-framework/setup/robot-yaml-format) for more.
 
 Put all the robot dependencies in `conda.yaml`. These are used for managing the execution environment.
 
 ### Additional documentation
 
-See [Robocorp Docs](https://robocorp.com/docs/) for more documentation.
+See [Robocorp Docs](https://robocorp.com/docs-robot-framework) for more documentation.

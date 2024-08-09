@@ -15,7 +15,7 @@ environmentConfigs:
   - environment_darwin_amd64_freeze.yaml
   - conda.yaml
 
-artifactsDir: output  
+artifactsDir: output
 PATH:
   - .
 PYTHONPATH:
